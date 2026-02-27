@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Adam Berry </h3>
 <p align="center">
   <a href="mailto:adamberry708@gmail.com">Email</a> •
-  <a href="www.linkedin.com/in/adam-berry-cs">LinkedIn</a>
+  <a href="https://linkedin.com/in/adam-berry-cs">LinkedIn</a>
 </p>
 
 ---
