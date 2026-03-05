@@ -9,7 +9,6 @@ I'm a software engineer from Kansas City, currently working at Asureti as a soft
 
 Stack
 ---
-**Languages:** Go, C, Python, Java, JavaScript, ...   
+**Languages:** Go, C, Python, Java, JavaScript, HTML/CSS, Vue
 **Infrastructure:** Docker, Linux Tools, Linux Administration   
-**Utilities:** Agile/Scrum Methods, Git   
-
+**Utilities:** Agile/Scrum Methods, Git
