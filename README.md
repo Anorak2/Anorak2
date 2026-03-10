@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm a software engineer from Kansas City, currently working at Asureti as a software engineering intern. I'm a senior studying computer science at KU, and the president of the KU supercomputing club. I love figuring out how things work and writing quality code.
+I'm a software engineer, working at Asureti as a software engineering intern. I'm a senior studying computer science at KU, avid learner, and the president of the KU supercomputing club. I love figuring out how things work, HPC Systems, networking, performant code, and writing code that is durable.   
 
 Stack
 ---
