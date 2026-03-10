@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm a software engineer, working at Asureti as a software engineering intern. I'm a senior studying computer science at KU, avid learner, and the president of the KU supercomputing club. I love figuring out how things work, HPC Systems, networking, performant code, and writing code that is durable.   
+I’m a senior studying computer science at KU, a software engineering intern at Asureti, and the president of the KU Supercomputing Club. I enjoy understanding how things work, building performant and durable code, and exploring HPC systems and networking.    
 
 Stack
 ---
