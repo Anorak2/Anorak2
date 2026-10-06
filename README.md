@@ -5,7 +5,8 @@
 </p>
 
 ---
-I’m a senior studying computer science at KU, a software engineering intern at Asureti, and the president of the KU Supercomputing Club. I enjoy understanding how things work, building performant and durable code, and exploring HPC systems and networking.    
+
+I'm a software contractor, Junior IT Operations (sysadmin) at City Lifestyle, class of 2026 KU grad. I enjoy understanding how things work, building performant and durable code, and exploring HPC systems and networking.
 
 Stack
 ---
