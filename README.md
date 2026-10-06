@@ -11,5 +11,5 @@ I'm a software contractor, Junior IT Operations (sysadmin) at City Lifestyle, cl
 Stack
 ---
 **Languages:** Go, C, Python, Java, JavaScript, HTML/CSS, Vue   
-**Infrastructure:** Docker, Linux Tools, Linux Administration   
+**Infrastructure:** Google Workspace Administration, Docker, Linux Tools, Linux Administration   
 **Utilities:** Agile/Scrum Methods, Git
